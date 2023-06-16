@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BrewBuddyProject</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="name_text">Name:\n</string>
+    <string name="person_details">Person Details:</string>
+    <string name="email">Email:</string>
+    <string name="signout">Signout</string>
+    <string name="user_details_text">Username Details</string>
+    <string name="start_button">Start</string>
+    <string name="login">Login/Register</string>
+    <string name="welcome_text">Welcome!</string>
+    <string name="brew_comments">Comments:</string>
+    <string name="brew_rating">Rating:</string>
+    <string name="brewRating1">Rating:</string>
+    <string name="brewComments1">Comments:</string>
+</resources>

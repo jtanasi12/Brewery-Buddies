@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "353407709530",
+    "project_id": "brewery-buddy-f733d",
+    "storage_bucket": "brewery-buddy-f733d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353407709530:android:fd492e5118c44d9a2ec363",
+        "android_client_info": {
+          "package_name": "com.example.brewbuddyproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353407709530-162ob1ss00suuft10ngbqmmtvi6449do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brewbuddyproject",
+            "certificate_hash": "6d68c71e6e03553337a4ca88d85d28055ce7436a"
+          }
+        },
+        {
+          "client_id": "353407709530-mi4jcaig5fus19ra8acg7bj5ju3j7308.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt2egOjHbiIji1GqPdujPS1gP6kuCpm88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353407709530-mi4jcaig5fus19ra8acg7bj5ju3j7308.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
